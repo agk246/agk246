@@ -45,9 +45,8 @@ I am currently building **AIAnimateContentCreation**, an AI-powered content gene
 
 ## 📈 GitHub Statistics
 
-<p align="left">
-  [![Gopikrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agk246&show_icons=true&theme=visual_studio_code&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=agk246&show_icons=true&theme=visual_studio_code&count_private=true" alt="Gopikrishna's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agk246&layout=compact&theme=visual_studio_code" alt="Top Languages" width="48%" />
 
 ---
 
